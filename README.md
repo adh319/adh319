@@ -7,17 +7,18 @@
 </p>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=adh319&label=Profile%20Views&color=008042&style=for-the-badge&label=Prefile+Views" alt="Prefile Views"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/adh319" alt="Profile Stars"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/adh319" alt="Profile Forks"></a>
 </div>
 
 ## ♂️ About Me
 
-- I’m a Leaner of **JavaScript** Specially **Discord.JS**
+- I’m a Leaner of **JavaScript** lang, specially **Discord.Js**
+- Currently working on **[Lunox](https://github.com/adh319)** project
+- Hobbies **Games, Read Manga/Manhwa/Manhua, Watch Anime**
 
-- Hobbies **Games, Read Manga/Manhwa/Manhua, Watch anime**
-
-## 🚀 Languages
+## 🚀 My Stats
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
