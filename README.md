@@ -15,7 +15,7 @@
 ## ♂️ About Me
 
 - I’m a Leaner of **JavaScript** lang, specially **Discord.Js**
-- Currently working on **[Lunox](https://github.com/adh319)** project
+- Currently working on **[Lunox](https://github.com/Enour-Dev/Lunox)** project
 - Hobbies **Games, Read Manga/Manhwa/Manhua, Watch Anime**
 
 ## 🚀 My Stats
