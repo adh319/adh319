@@ -4,7 +4,13 @@
 
 <p align="center">
   <a href="https://ko-fi.com/adh319" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.me/LunoxBot" target="_blank">
+    <img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/925c5a9e397363c6f7a477973fdeed485df5fdd9/blue.svg" height="72"/>
   </a>
 </p>
 
