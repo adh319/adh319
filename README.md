@@ -61,63 +61,11 @@ Hi, I’m **ADH319**, a developer focused on building **fast, stable, and scalab
 
 ---
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/adh319/Lunox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adh319&repo=Lunox&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/adh319/Aurox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adh319&repo=Aurox&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-## 🎧 Spotify Now Playing
-
-<p align="center">
-  <img
-    src="https://spotify-github-profile.vercel.app/api/view?uid=adh319&cover_image=true&theme=default&show_offline=false&background_color=000000"
-    alt="Spotify Now Playing"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=adh319&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adh319&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=adh319&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=adh319&theme=onedark&row=1&no-frame=true"
   />
 </p>
 
